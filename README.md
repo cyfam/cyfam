@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @cyfam
-attending University of Georgia for CS
+👋 Hi, I’m @cyfam,
+attending University of Georgia for CS <br>
 :)
+
+<br>
+Find my stuff @ https://cyfam.carrd.co
 
 <!---
 cyfam/cyfam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
