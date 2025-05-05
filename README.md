@@ -1,4 +1,4 @@
-👋 Hi, I’m @cyfam,
+👋 Hi, I’m Trent,
 attending University of Georgia for CS <br>
 :)
 
